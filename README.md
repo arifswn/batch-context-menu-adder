@@ -8,7 +8,7 @@ If you like to drink coffee at night, invite me to drink coffee with you, then w
 
 ## How to use
 - Select menu 1 to add application to context menu
-    - Please enter the **`program name`**, proceed to the next step
+    - Please enter the **`program name`** proceed to the next step
     - Please enter the **`program path`** without using space
    - If you have clicked Y to create a registry file filename.reg
 - Then run the registry that you created
