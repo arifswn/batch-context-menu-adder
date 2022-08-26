@@ -17,8 +17,8 @@ cls
 echo.
 echo ________________________________________________________________________________
 echo.
-echo                                .:: Sinau Tech ::.
-echo                           .:: https://sinautech.id ::.
+echo                                 .:: Arset Soft ::.
+echo                            .:: https://arsetsoft.id ::.
 echo.
 echo ________________________________________________________________________________
 echo.
@@ -109,8 +109,8 @@ goto SINGLE
 cls
 echo ________________________________________________________________________________
 echo.
-echo                                .:: Sinau Tech ::.
-echo                           .:: https://sinautech.id ::.
+echo                                 .:: Arset Soft ::.
+echo                            .:: https://arsetsoft.id ::.
 echo.
 echo ________________________________________________________________________________
 echo.
